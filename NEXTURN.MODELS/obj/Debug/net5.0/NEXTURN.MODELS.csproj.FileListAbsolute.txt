@@ -1,0 +1,12 @@
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\bin\Debug\net5.0\NEXTURN.MODELS.deps.json
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\bin\Debug\net5.0\NEXTURN.MODELS.dll
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\bin\Debug\net5.0\ref\NEXTURN.MODELS.dll
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\bin\Debug\net5.0\NEXTURN.MODELS.pdb
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\obj\Debug\net5.0\NEXTURN.MODELS.csproj.AssemblyReference.cache
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\obj\Debug\net5.0\NEXTURN.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\obj\Debug\net5.0\NEXTURN.MODELS.AssemblyInfoInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\obj\Debug\net5.0\NEXTURN.MODELS.AssemblyInfo.cs
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\obj\Debug\net5.0\NEXTURN.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\obj\Debug\net5.0\NEXTURN.MODELS.dll
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\obj\Debug\net5.0\ref\NEXTURN.MODELS.dll
+C:\Users\BALAMAHENDIRA\source\repos\NEXTURN.MVC\NEXTURN.MODELS\obj\Debug\net5.0\NEXTURN.MODELS.pdb
