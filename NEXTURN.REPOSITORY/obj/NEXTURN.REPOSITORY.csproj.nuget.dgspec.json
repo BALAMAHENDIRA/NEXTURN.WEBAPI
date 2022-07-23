@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {}
+    "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
+    "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj",
+        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj",
         "projectName": "NEXTURN.REPOSITORY",
-        "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj",
+        "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj",
         "packagesPath": "C:\\Users\\BALAMAHENDIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\obj\\",
+        "outputPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BALAMAHENDIRA\\AppData\\Roaming\\NuGet\\NuGet.Config",

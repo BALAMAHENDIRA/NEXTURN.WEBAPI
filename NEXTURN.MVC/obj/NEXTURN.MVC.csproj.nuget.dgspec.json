@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MVC\\NEXTURN.MVC.csproj": {}
+    "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MVC\\NEXTURN.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj": {
+    "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj",
+        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj",
         "projectName": "NEXTURN.BUSINESS",
-        "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj",
+        "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj",
         "packagesPath": "C:\\Users\\BALAMAHENDIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.BUSINESS\\obj\\",
+        "outputPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.BUSINESS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BALAMAHENDIRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj": {
-                "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj"
+              "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj": {
+                "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj"
               },
-              "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
-                "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj"
+              "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
+                "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj"
               },
-              "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj": {
-                "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj"
+              "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj": {
+                "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj": {
+    "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj",
+        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj",
         "projectName": "NEXTURN.MODELS",
-        "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj",
+        "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj",
         "packagesPath": "C:\\Users\\BALAMAHENDIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\obj\\",
+        "outputPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BALAMAHENDIRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MVC\\NEXTURN.MVC.csproj": {
+    "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MVC\\NEXTURN.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MVC\\NEXTURN.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MVC\\NEXTURN.MVC.csproj",
         "projectName": "NEXTURN.MVC",
-        "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MVC\\NEXTURN.MVC.csproj",
+        "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MVC\\NEXTURN.MVC.csproj",
         "packagesPath": "C:\\Users\\BALAMAHENDIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MVC\\obj\\",
+        "outputPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BALAMAHENDIRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,17 +146,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj": {
-                "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj"
+              "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj": {
+                "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.BUSINESS\\NEXTURN.BUSINESS.csproj"
               },
-              "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj": {
-                "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj"
+              "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj": {
+                "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj"
               },
-              "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
-                "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj"
+              "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
+                "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj"
               },
-              "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj": {
-                "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj"
+              "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj": {
+                "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
+    "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj",
+        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj",
         "projectName": "NEXTURN.REPOSITORY",
-        "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj",
+        "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj",
         "packagesPath": "C:\\Users\\BALAMAHENDIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\obj\\",
+        "outputPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BALAMAHENDIRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -278,14 +278,14 @@
         }
       }
     },
-    "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj": {
+    "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj",
+        "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj",
         "projectName": "NEXTURN.UTILITIES",
-        "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj",
+        "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.UTILITIES\\NEXTURN.UTILITIES.csproj",
         "packagesPath": "C:\\Users\\BALAMAHENDIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.UTILITIES\\obj\\",
+        "outputPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.UTILITIES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BALAMAHENDIRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -302,11 +302,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj": {
-                "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj"
+              "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj": {
+                "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.MODELS\\NEXTURN.MODELS.csproj"
               },
-              "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
-                "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj"
+              "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj": {
+                "projectPath": "C:\\Users\\BALAMAHENDIRA\\OneDrive\\Desktop\\NEXTURN.MVC\\NEXTURN.REPOSITORY\\NEXTURN.REPOSITORY.csproj"
               }
             }
           }
